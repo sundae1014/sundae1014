@@ -9,15 +9,26 @@
 ## 🛠 Tech Stack
 
 ### 🔹 Main
-- **Language**: Java, JavaScript
+- **Language**: Java
 - **Backend**: Spring Boot, MyBatis
-- **Database**: Oracle, MySQL
+- **Database**: Oracle
 - **Infra / DevOps**: AWS EC2, GitHub Actions
-- **Frontend**: HTML, CSS
-- **Tools**: Git
+- **Frontend**: JavaScript, HTML, CSS
 
 ### 🔹 Experienced
-- C
 - Docker
 - GCP
 - Flutter
+- MySQL
+
+### 🔹 Tools | Use
+- IntelliJ IDEA
+- Eclipse IDE
+- Visual Studio Code
+- Android Studio
+- DBeaver
+- MobaXterm
+- GitHub
+- Slack
+- Notion
+- Figma
