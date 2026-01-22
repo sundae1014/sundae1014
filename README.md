@@ -6,3 +6,18 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 안녕하세요. 꾸준히 학습하며 성장하는 신입 개발자 정순권입니다.</li> </div> 
     </div>
     
+## 🛠 Tech Stack
+
+### 🔹 Main
+- **Language**: Java, JavaScript
+- **Backend**: Spring Boot, MyBatis
+- **Database**: Oracle, MySQL
+- **Infra / DevOps**: AWS EC2, GitHub Actions
+- **Frontend**: HTML, CSS
+- **Tools**: Git
+
+### 🔹 Experienced
+- C
+- Docker
+- GCP
+- Flutter
