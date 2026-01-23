@@ -8,32 +8,45 @@
     
 ## 🛠 Tech Stack
 
-### 🔹 Main
-- **Language**: Java
-- **Backend**: Spring Boot, MyBatis
-- **Database**: Oracle
-- **Infra / DevOps**: AWS EC2, GitHub Actions
-- **Frontend**: JavaScript, HTML, CSS
+<table>
+    <tr> 
+        <th>구분</th> 
+        <th>기술</th> 
+    </tr>
+    <tr> 
+        <td><strong>Language</strong></td> 
+        <td><strong>Java</strong></td>
+    </tr> 
+    <tr> 
+        <td><strong>Backend</strong></td> 
+        <td><strong>Spring Boot, MyBatis</strong></td>
+    </tr> 
+    <tr> 
+        <td><strong>Database</strong></td>
+        <td><strong>Oracle</strong></td> 
+    </tr> 
+    <tr> 
+        <td><strong>Frontend</strong></td>
+        <td>JavaScript, HTML, CSS</td> 
+    </tr> 
+    <tr> <td><strong>Infra / DevOps</strong></td>
+        <td>AWS EC2, GitHub Actions</td> 
+    </tr> 
+    <tr> 
+        <td><strong>Sub Experience</strong></td> 
+        <td>Docker, GCP, Flutter, MySQL</td> 
+    </tr> 
+    <tr> 
+        <td><strong>Collaboration Tools</strong></td> 
+        <td>GitHub, Slack, Notion, Figma</td> 
+    </tr> 
+    <tr> 
+        <td><strong>Development Tools</strong></td> 
+        <td> IntelliJ IDEA, Eclipse IDE, Visual Studio Code,<br> Android Studio, DBeaver, MobaXterm </td>
+    </tr> 
+</table>
 
-### 🔹 Experienced
-- Docker
-- GCP
-- Flutter
-- MySQL
-
-### 🔹 Tools | Use
-- IntelliJ IDEA
-- Eclipse IDE
-- Visual Studio Code
-- Android Studio
-- DBeaver
-- MobaXterm
-- GitHub
-- Slack
-- Notion
-- Figma
-
-## 💾 Project
+## 💻 Project
   <table>
     <tr>
       <th>프로젝트명</th>
@@ -47,32 +60,52 @@
       <td>BNK 2차 팀 프로젝트</td>
       <td>Flutter / Spring boot / Oracle</td>
       <td>1:1문의, FAQ 게시, DB설계 및 관리</td>
-      <td><a href='https://github.com/SangKyuuu/team3_flutter'>링크</a></td>
-      <td>링크</td>
+      <td><a href='https://github.com/SangKyuuu/team3_flutter' style="text-decoration:none;">🏷️</a></td>
+      <td><a href='' style="text-decoration:none;">📺</a></td>
       <td>25.12.08 ~ 26.01.08</td>
     </tr>
     <tr>
       <td>BNK 1차 팀 프로젝트</td>
       <td>Spring boot / MyBatis / Oracle</td>
       <td>DB설계 및 관리, 데이터 스크래핑</td>
-      <td><a href='https://github.com/SangKyuuu/busan-bank-project1-team3'>링크</a></td>
-      <td><a href='https://www.youtube.com/watch?v=Fk9cIvPaUGI'>링크</a></td>
+      <td>
+          <a href='https://github.com/SangKyuuu/busan-bank-project1-team3' style="text-decoration:none;">
+              <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8ae84ab5-1645-4ac0-a202-d95ee9ab5c4d" />
+          </a>
+      </td>
+      <td>
+          <a href='' style="text-decoration:none;">
+              <img src="https://img.shields.io/badge/▶-Demo-red" />
+          </a>
+      </td>
       <td>25.11.06 ~ 25.12.05</td>
     </tr>
     <tr>
       <td>K_MarketProject</td>
       <td>Spring boot / MyBatis / Oracle </td>
       <td>마이페이지, 주문관리(관리자)</td>
-      <td><a href='https://github.com/sundae1014/K_MarketProject'>링크</a></td>
-      <td><a href='https://www.youtube.com/watch?v=HTyxtHtE8So'>링크</a></td>
+      <td><a href='https://github.com/sundae1014/K_MarketProject' style="text-decoration:none;">🏷️</a></td>
+      <td><a href='https://youtu.be/jugVeqn8niI' style="text-decoration:none;">📺</a></td>
       <td>25.10.01 ~ 25.10.21</td>
     </tr>
     <tr>
       <td>GreenUniversityProject</td>
       <td>Java / JSP / Oracle </td>
       <td>로그인 및 회원가, 학과 소개, 메인페이지</td>
-      <td><a href='https://github.com/Hantakwon/GreenUniversityProject'>링크</a></td>
-      <td><a href='https://youtu.be/-Vxe_AMs8No'>링크</a></td>
+      <td><a href='https://github.com/Hantakwon/GreenUniversityProject' style="text-decoration:none;">🏷️</a></td>
+      <td><a href='https://youtu.be/-Vxe_AMs8No' style="text-decoration:none;">📺</a></td>
       <td>25.09.01 ~ 25.09.12</td>
     </tr>
   </table>
+
+## 📞 Contact
+<table>
+    <tr>
+        <th>Email</th>
+        <td>link8430@gmail.com</td>
+    </tr>
+    <tr>
+        <th>HP</th>
+        <td>010-5481-4592</td>
+    </tr>
+</table>
