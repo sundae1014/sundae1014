@@ -69,14 +69,10 @@
       <td>Spring boot / MyBatis / Oracle</td>
       <td>DB설계 및 관리, 데이터 스크래핑</td>
       <td>
-          <a href='https://github.com/SangKyuuu/busan-bank-project1-team3' style="text-decoration:none;">
-              <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8ae84ab5-1645-4ac0-a202-d95ee9ab5c4d" />
-          </a>
+          <a href='https://github.com/SangKyuuu/busan-bank-project1-team3' style="text-decoration:none;">🏷️</a>
       </td>
       <td>
-          <a href='' style="text-decoration:none;">
-              <img src="https://img.shields.io/badge/▶-Demo-red" />
-          </a>
+          <a href='' style="text-decoration:none;">📺</a>
       </td>
       <td>25.11.06 ~ 25.12.05</td>
     </tr>
