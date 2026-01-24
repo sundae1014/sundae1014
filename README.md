@@ -59,7 +59,7 @@
     <tr>
       <td>BNK 2차 팀 프로젝트</td>
       <td>Flutter / Spring boot / Oracle</td>
-      <td>1:1문의, FAQ 게시, DB설계 및 관리</td>
+      <td>1:1문의, FAQ 게시판, DB설계 및 관리</td>
       <td><a href='https://github.com/SangKyuuu/team3_flutter'>🏷️</a></td>
       <td><a href='https://youtube.com/shorts/qdFlJ98MVCs'>📺</a></td>
       <td>25.12.08 ~ 26.01.08</td>
@@ -83,7 +83,7 @@
     <tr>
       <td>GreenUniversityProject</td>
       <td>Java / JSP / Oracle </td>
-      <td>로그인 및 회원가, 학과 소개, 메인페이지</td>
+      <td>로그인 및 회원가입, 학과 소개, 메인페이지</td>
       <td><a href='https://github.com/Hantakwon/GreenUniversityProject'>🏷️</a></td>
       <td><a href='https://youtu.be/-Vxe_AMs8No'>📺</a></td>
       <td>25.09.01 ~ 25.09.12</td>
